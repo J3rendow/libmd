@@ -30,3 +30,5 @@ npm run docs:preview
 ## Deploy
 
 O deploy para GitHub Pages é feito automaticamente via GitHub Actions ao fazer push na branch `main`.
+
+> **Nota:** O `base` em `docs/.vitepress/config.ts` está configurado como `/libmd/` para corresponder ao nome do repositório. Se o repositório for renomeado ou se um domínio customizado for utilizado, atualize o valor de `base` conforme necessário.
