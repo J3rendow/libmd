@@ -33,6 +33,17 @@ export default defineConfig({
         text: "Java",
         items: [{ text: "JVM", link: "/java/jvm" }],
       },
+      {
+        text: "Node.js",
+        items: [
+          { text: "Visão Geral", link: "/nodejs/" },
+          { text: "Peculiaridades", link: "/nodejs/peculiaridades" },
+          { text: "Problemas Comuns", link: "/nodejs/problemas" },
+          { text: "Frameworks Modernos", link: "/nodejs/frameworks-modernos" },
+          { text: "Vantagens e Desvantagens", link: "/nodejs/vantagens-desvantagens" },
+          { text: "Casos de Uso", link: "/nodejs/casos-de-uso" },
+        ],
+      },
     ],
   },
 });
