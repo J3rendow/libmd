@@ -11,3 +11,7 @@ Kubernetes é um orquestrador de containers open-source que automatiza a implant
 - Clusters
 - Nodes
 - Pods
+
+## Guia complementar
+
+- [Extensão e Componentes](/kubernetes/extensao-componentes)
