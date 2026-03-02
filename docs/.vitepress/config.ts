@@ -19,6 +19,7 @@ export default defineConfig({
           {
             text: "Networking",
             items: [
+              { text: "Visão Geral", link: "/kubernetes/networking/" },
               { text: "Ingress", link: "/kubernetes/networking/ingress" },
             ],
           },
