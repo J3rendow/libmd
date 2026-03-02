@@ -14,6 +14,7 @@ export default defineConfig({
         text: "Kubernetes",
         items: [
           { text: "Arquitetura", link: "/kubernetes/arquitetura" },
+          { text: "Extensão e Componentes", link: "/kubernetes/extensao-componentes" },
           { text: "Pods", link: "/kubernetes/pods" },
           {
             text: "Networking",
