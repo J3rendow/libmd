@@ -15,10 +15,10 @@ export default defineConfig({
         items: [
           { text: "Arquitetura", link: "/kubernetes/arquitetura" },
           { text: "Pods", link: "/kubernetes/pods" },
-          { text: "Networking", link: "/kubernetes/networking/" },
           {
-            text: "Networking (conceitos)",
+            text: "Networking",
             items: [
+              { text: "Visão Geral", link: "/kubernetes/networking/" },
               { text: "Ingress", link: "/kubernetes/networking/ingress" },
             ],
           },
